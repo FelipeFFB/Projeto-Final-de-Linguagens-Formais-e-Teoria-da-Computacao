@@ -1,0 +1,28 @@
+OBS: As saídas na prática podem ter formatos um pouco diferentes, mas estão corretas e seguem esses padrões das saídas esperadas
+
+q1a1a1Rq1#q1bbLqf$a1a1a1 - Saída esperada: q1a1a1Rq1#q1bbLqf$a1a1a1#A
+q1a1a11Sq1#q1a11a1Sq1$a1 - Saída esperada: Loop infinito 
+q1a1a1Lq11#q11ssRqf$a1 - Saída esperada: q1a1a1Lq11#q11ssRqf$a1#A
+q1a1a1Rq11#q11a1a1Lq1$a1a1 - Saída esperada: Loop infinito
+q1a1a1Rq1#q1a11a11Rq1#q1bbLq11#q11a1bLq11#q11a11bLq11#q11ssRqf$a1a11a1 - Saída esperada: q1a1a1Rq1#q1a11a11Rq1#q1bbLq11#q11a1bLq11#q11a11bLq11#q11ssRqf$bbb#A
+q1a111a1Sqf$a111 - Saída esperada: q1a111a1Sqf$a1#A
+q1a1a1Lqf$a1 - Saída esperada: q1a1a1Lqf$a1#R
+q1a1a11Sq11#q11a11a1Sq1$a1 - Saída esperada: Loop infinito
+q1a11a11Rq1#q1a111a1Rq11#q11a1a1Rq11#q11bbSqf$a11a111a1a1 - Saída esperada: q1a11a11Rq1#q1a111a1Rq11#q11a1a1Rq11#q11bbSqf$a11a1a1a1#A
+q1a1a11Sq11#q1ssRqf#q11a11a11Sq1#q1a11a11Lq1$a1 - Saída esperada: q1a1a11Sq11#q1ssRqf#q11a11a11Sq1#q1a11a11Lq1$a11#A
+q1a1a11Sq11#q1ssLqf#q11a11a11Sq1#q1a11a11Lq1$a1 - Saída esperada: q1a1a11Sq11#q1ssLqf#q11a11a11Sq1#q1a11a11Lq1$a11#R
+q1ssRq11#q1a1a1Lq1#q11a1a11Sqf$a1 - Saída esperada: q1ssRq11#q1a1a1Lq1#q11a1a11Sqf$a11#A
+q11ssRq11#q1a1a1Lq1#q11a1a11Sqf$a1 - Saída esperada: q11ssRq11#q1a1a1Lq1#q11a1a11Sqf$a1#R
+q1a1a1Rq111#q111a1a111Rq11#q11a1111a1Sqf$a1a1a1111 - Saída esperada: q1a1a1Rq111#q111a1a111Rq11#q11a1111a1Sqf$a1a111a1#A
+q1a1a111Sq11111#q11111a111a1111Sq11#q11a1111a11Sqf$a1 - Saída esperada: q1a1a111Sq11111#q11111a111a1111Sq11#q11a1111a11Sqf$a11#A
+q1a1a1Rq11$a1a11 - Saída esperada: q1a1a1Rq11$a1a11#R
+q1a1a11Rq11#q11a11a1Rqf$a1a11 - Saída esperada: q1a1a11Rq11#q11a11a1Rqf$a11a1#A
+q1a1a1Sqf$a1 - Saída esperada: q1a1a1Sqf$a1#A
+q1a1a11Rqf$a1 - Saída esperada: q1a1a11Rqf$a11#A
+q1bbSqf$b - Saída esperada: q1bbSqf$b#A
+q1ba1Sqf$b - Saída esperada: q1ba1Sqf$a1#A
+q1a1bSqf$a1 - Saída esperada: q1a1bSqf$b#A
+q1a1a1Rq11#q11a11a11Rq111$a1a11 - Saída esperada: q1a1a1Rq11#q11a11a11Rq111$a1a11#R
+q11a1bRqf#q1a1a1Rqf$a1a1 - Saída esperada: q11a1bRqf#q1a1a1Rqf$a1a1#A
+q1ba1Sqf#q1a1a11Rq1#q111ba1Rqf$a1b - Saída esperada: q1ba1Sqf#q1a1a11Rq1#q111ba1Rqf$a11a1#A
+q1a1bSq11#q11ba11Sq11#q11a11a1Sq1$a1 - Saída esperada: Loop infinito
